@@ -16,6 +16,7 @@ Sistema Web de Apoyo Comunitario para Personas de Bajos Recursos del Distrito de
   - Zúñiga Ocrospoma, Christopher
 - **Sección:** 38211
 - **Lugar:** Lima, Perú — San Juan de Lurigancho, 2026
+<<<<<<< HEAD
 - **Fecha de inicio:** 10 de agosto de 2026
 - **Fecha de finalización:** 13 de diciembre de 2026
 
